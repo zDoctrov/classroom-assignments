@@ -22,7 +22,7 @@ I've organized them in terms of the respective class they were a part of and ord
 
 ## 1.1. Purpose of this repository <a name="heading--1-1"/>
 
-# 2. Operating Systems <span style="font-size:15pt;">(Winter 2021)</span>
+# 2. Operating Systems <span style="font-size:smaller;">(Winter 2021)</span>
 
 # 3. Computer Networks & Distributed Processing (Winter 2021)
 
