@@ -18,12 +18,13 @@
 
 # 1. Overview of *classroom-assignments* <a name="heading--1"/>
 A single repository to rule them all. Placed here are all of the programming assignments I've done previously during my undergraduate years at UoM Dearborn.
-I've organized them in terms of the respective class they were a part of and ordered these classes in terms of recency. 
+I've organized them in terms of the respective class they were a part of and ordered these classes in terms of their recency. 
 
 ## 1.1. Markdown formatting cheatsheet <a name="heading--1-1"/>
 
 
-# 2. Operating Systems (Winter 2021)
+# 2. Operating Systems 
+**(Winter 2021)**
 
 # 3. Computer Networks & Distributed Processing (Winter 2021)
 
