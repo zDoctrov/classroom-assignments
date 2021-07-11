@@ -24,7 +24,7 @@ I've organized them in terms of the respective class they were a part of and ord
 
 # 2. Operating Systems <span style="font-size:smaller;">(Winter 2021)</span>
 
-# 3. Computer Networks & Distributed Processing (Winter 2021)
+# 3. Computer Networks & Distributed Processing <span style="font-size:12pt;">(Winter 2021)</span>
 
 # 4. Java Programming (Fall 2020)
 
