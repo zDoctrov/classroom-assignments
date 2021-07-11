@@ -40,7 +40,7 @@ I've organized them in terms of the respective class they were a part of and ord
 
 ## 2. Operating Systems (Winter 2021) <a name="heading--2"/>
 
-## Getting Docker Running
+### Getting Docker Running
 
 Below are more resouces to get Docker running on your local device.
 [CodeTime][https://github.com/zDoctrov/classroom-assignments]
