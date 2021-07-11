@@ -1,3 +1,12 @@
+<details>
+<summary><b>Table of Contents</b> (click to open)</summary>
+<!-- MarkdownTOC -->
+1. Baba
+2. Boo
+3. Eee
+<!-- /MarkdownTOC -->
+</details>
+
 # classroom-assignments
 
 A single repository to rule them all. Placed here are all of the programming assignments I've done previously during my undergraduate years at UoM Dearborn. 
@@ -11,7 +20,7 @@ Below are more resouces to get Docker running on your local device.
 
 
 
-# <--Markdown Notes--!>
+<!-- Markdown Notes -->
 ## Header2
 
 This is a sample readme file for our GitHub Example repo. We're learning Markdown.
@@ -20,4 +29,9 @@ Bullet Point List
 * This is meant to be an example
 * Markdown is really fast
 * Pretty cool, right?
+
+Numerical List
+1. Item One
+2. Item Two
+3. Item Three
 
