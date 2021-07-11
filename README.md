@@ -3,25 +3,42 @@
 **[1. Overview of *classroom-assignments*](#heading--1)**
 
   * [1.1. Purpose of this repository](#heading--1-1)
-  * [1.2. Markdown formatting details](#heading--1-2)
+  * [1.2. ...](#heading--1-2)
 
-**[2. BBCode formatting](#heading--2)**
+**[2. ...](#heading--2)**
 
-  * [2.1. Basic text formatting](#heading--2-1)
+  * [2.1. ...](#heading--2-1)
 
-      * [2.1.1. Not so basic text formatting](#heading--2-1-1)
+      * [2.1.1. ...](#heading--2-1-1)
 
-  * [2.2. Lists, Images, Code](#heading--2-2)
-  * [2.3. Special features](#heading--2-3)
+  * [2.2. ...](#heading--2-2)
+  * [2.3. ...](#heading--2-3)
 
 ----
+
 # 1. Overview of *classroom-assignments* <a name="heading--1"/>
-A single repository to rule them all. Placed here are all of the programming assignments I've done previously during my undergraduate years at UoM Dearborn. 
+A single repository to rule them all. Placed here are all of the programming assignments I've done previously during my undergraduate years at UoM Dearborn.
+I've organized them in terms of the respective class they were a part of and ordered these classes in terms of recency. 
 
 ## 1.1. Markdown formatting cheatsheet <a name="heading--1-1"/>
 
 
-# operatingSystems (CIS-450)
+# 2. Operating Systems (Winter 2021)
+
+# 3. Computer Networks & Distributed Processing (Winter 2021)
+
+# 4. Java Programming (Fall 2020)
+
+# 5. Software Engineering I (Fall 2020)
+
+# 6. Data Structures & Algorithm Analysis (Winter 2020)
+
+
+
+
+
+
+
 
 ## Getting Docker Running
 
