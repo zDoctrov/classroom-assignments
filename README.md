@@ -24,7 +24,7 @@ I've organized them in terms of the respective class they were a part of and ord
 
 ----
 
-## 2. Operating Systems (Winter 2021)
+## 2. Operating Systems <span style="color:#CCCCFF">(Winter 2021)</span>
 
 ## 3. Computer Networks & Distributed Processing (Winter 2021)
 
