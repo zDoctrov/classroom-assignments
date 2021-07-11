@@ -1,8 +1,5 @@
-## Content
+# Table of Contents
 
-<details>
-<summary>(click to expand)</summary>
-<!-- MarkdownTOC -->
 **[1. Markdown](#heading--1)**
 
   * [1.1. Markdown formatting cheatsheet](#heading--1-1)
@@ -18,8 +15,6 @@
   * [2.3. Special features](#heading--2-3)
 
 ----
-<!-- /MarkdownTOC -->
-</details>
 
 # classroom-assignments
 
