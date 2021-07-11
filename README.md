@@ -16,21 +16,23 @@
 
 ----
 
-# 1. Overview of *classroom-assignments* <a name="heading--1"/>
+## 1. Overview of *classroom-assignments* <a name="heading--1"/>
 A single repository to rule them all. Placed here are all of the programming assignments I've done previously during my undergraduate years at UoM Dearborn.
 I've organized them in terms of the respective class they were a part of and ordered these classes in terms of their recency. 
 
-## 1.1. Purpose of this repository <a name="heading--1-1"/>
+### 1.1. Purpose of this repository <a name="heading--1-1"/>
 
-# 2. Operating Systems <span style="font-size:smaller;">(Winter 2021)</span>
+----
 
-# 3. Computer Networks & Distributed Processing <span style="font-size:12pt;">(Winter 2021)</span>
+## 2. Operating Systems (Winter 2021)
 
-# 4. Java Programming (Fall 2020)
+## 3. Computer Networks & Distributed Processing (Winter 2021)
 
-# 5. Software Engineering I (Fall 2020)
+## 4. Java Programming (Fall 2020)
 
-# 6. Data Structures & Algorithm Analysis (Winter 2020)
+## 5. Software Engineering I (Fall 2020)
+
+## 6. Data Structures & Algorithm Analysis (Winter 2020)
 
 
 
