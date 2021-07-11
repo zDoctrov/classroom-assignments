@@ -5,15 +5,15 @@
   * [1.1. Purpose of this repository](#heading--1-1)
   * [1.2. ...](#heading--1-2)
 
-**[2. ...](#heading--2)**
+**[2. Operating Systems (Winter 2021)](#heading--2)**
 
-**[3. ...](#heading--3)**
+**[3. Computer Networks & Distributed Processing (Winter 2021)](#heading--3)**
 
-**[4. ...](#heading--4)**
+**[4. Java Programming (Fall 2020)](#heading--4)**
 
-**[5. ...](#heading--5)**
+**[5. Software Engineering I (Fall 2020)](#heading--5)**
 
-**[6. ...](#heading--6)**
+**[6. Data Structures & Algorithm Analysis (Winter 2020)](#heading--6)**
 
 <!-- Formatting of Table of Contents
     # Table of Contents
