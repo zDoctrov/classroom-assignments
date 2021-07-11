@@ -1,8 +1,8 @@
 # Table of Contents
 
-**[1. Markdown](#heading--1)**
+**[1. Overview of *classroom-assignments*](#heading--1)**
 
-  * [1.1. Markdown formatting cheatsheet](#heading--1-1)
+  * [1.1. Purpose of this repository](#heading--1-1)
   * [1.2. Markdown formatting details](#heading--1-2)
 
 **[2. BBCode formatting](#heading--2)**
@@ -15,10 +15,11 @@
   * [2.3. Special features](#heading--2-3)
 
 ----
-
-# classroom-assignments
-
+# 1. Overview of *classroom-assignments* <a name="heading--1"/>
 A single repository to rule them all. Placed here are all of the programming assignments I've done previously during my undergraduate years at UoM Dearborn. 
+
+## 1.1. Markdown formatting cheatsheet <a name="heading--1-1"/>
+
 
 # operatingSystems (CIS-450)
 
