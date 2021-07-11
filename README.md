@@ -40,6 +40,15 @@ I've organized them in terms of the respective class they were a part of and ord
 
 ## 2. Operating Systems (Winter 2021) <a name="heading--2"/>
 
+## Getting Docker Running
+
+Below are more resouces to get Docker running on your local device.
+[CodeTime][https://github.com/zDoctrov/classroom-assignments]
+
+
+
+
+
 ## 3. Computer Networks & Distributed Processing (Winter 2021) <a name="heading--3"/>
 
 ## 4. Java Programming (Fall 2020) <a name="heading--4"/>
@@ -53,12 +62,6 @@ I've organized them in terms of the respective class they were a part of and ord
 
 
 
-
-
-## Getting Docker Running
-
-Below are more resouces to get Docker running on your local device.
-[CodeTime][https://github.com/zDoctrov/classroom-assignments]
 
 
 
