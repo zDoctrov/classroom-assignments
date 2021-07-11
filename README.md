@@ -7,12 +7,31 @@
 
 **[2. ...](#heading--2)**
 
+**[3. ...](#heading--3)**
+
+**[4. ...](#heading--4)**
+
+**[5. ...](#heading--5)**
+
+**[6. ...](#heading--6)**
+
+<!-- Formatting of Table of Contents
+    # Table of Contents
+
+**[1. Overview of *classroom-assignments*](#heading--1)**
+
+  * [1.1. Purpose of this repository](#heading--1-1)
+  * [1.2. ...](#heading--1-2)
+
+**[2. ...](#heading--2)**
+
   * [2.1. ...](#heading--2-1)
 
       * [2.1.1. ...](#heading--2-1-1)
 
   * [2.2. ...](#heading--2-2)
   * [2.3. ...](#heading--2-3)
+ -->
 
 ----
 
@@ -24,15 +43,15 @@ I've organized them in terms of the respective class they were a part of and ord
 
 ----
 
-## 2. Operating Systems <span style="color:#CCCCFF">(Winter 2021)</span>
+## 2. Operating Systems (Winter 2021) <a name="heading--2"/>
 
-## 3. Computer Networks & Distributed Processing (Winter 2021)
+## 3. Computer Networks & Distributed Processing (Winter 2021) <a name="heading--3"/>
 
-## 4. Java Programming (Fall 2020)
+## 4. Java Programming (Fall 2020) <a name="heading--4"/>
 
-## 5. Software Engineering I (Fall 2020)
+## 5. Software Engineering I (Fall 2020) <a name="heading--5"/>
 
-## 6. Data Structures & Algorithm Analysis (Winter 2020)
+## 6. Data Structures & Algorithm Analysis (Winter 2020) <a name="heading--6"/>
 
 
 
