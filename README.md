@@ -1,10 +1,8 @@
 ## Content
 
 <details>
-(click to expand)</summary>
+<summary>(click to expand)</summary>
 <!-- MarkdownTOC -->
-
-
 **[1. Markdown](#heading--1)**
 
   * [1.1. Markdown formatting cheatsheet](#heading--1-1)
