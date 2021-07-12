@@ -56,11 +56,10 @@ You can find it [here](https://hub.docker.com/r/shqwang/xv6/tags?page=1&ordering
 of terminal commands I've placed below will add a local container process called xv6cp to your local machine.
 
   1.  This first command names the container process as xv6cp, mounts a local directory called under your PC's user name called xv6
-  that is accessible on both your host machine and the virtual machine, and finally it downloads the shqwang/xv6 container image.
-  Replace "yourname" with the local username you use to login into your operating system  
+  that is accessible on both your host machine and the virtual machine, and finally it downloads the shqwang/xv6 container image. Replace "yourname" with the local username you use to login into your operating system
+  
   (Linux & Apple users)
-  $ docker run --name xv6cp -v /Users/yourName/xv6:/xv6 -it shqwang/xv6 bash  
-    
+  $ docker run --name xv6cp -v /Users/yourName/xv6:/xv6 -it shqwang/xv6 bash
   (Windows users)
   $ docker run --name xv6cp -v /c/Users/yourName/xv6:/xv6 -it shqwang/xv6 bash
 
