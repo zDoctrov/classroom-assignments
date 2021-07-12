@@ -55,8 +55,10 @@ My professor created an xv6 container image called shqwang/xv6 and stored it on 
 You can find it [here](https://hub.docker.com/r/shqwang/xv6/tags?page=1&ordering=last_updated) and the sequence
 of terminal commands I've placed below will add a local container process called xv6cp to your local machine.
 
-  1.  This first command names the container process as xv6cp, mounts a local directory called under your PC's user name called xv6
-  that is accessible on both your host machine and the virtual machine, and finally it downloads the shqwang/xv6 container image. Replace "yourname" with the local username you use to login into your operating system
+  1.  This first terminal command does three things at once:<br />
+  -First it names the container process as xv6cp<br />
+  -Then it mounts a local directory called "xv6" under your PC's user name. This makes the directory accessible on both your host machine and the virtual machine<br />
+  -Finally, it downloads the shqwang/xv6 container image. Replace "yourname" with the local username you use to login into your operating system<br />
   
   (Linux & Apple users)<br />
   $ docker run --name xv6cp -v /Users/yourName/xv6:/xv6 -it shqwang/xv6 bash
