@@ -46,10 +46,14 @@ All of the code written and modified was made in C in visual studio and ran/test
 ### Getting Docker Running
 
 Follow the instructions from Docker's main website in order to properly install their software on your preferred operating system.  
-[Installation Page on Docker Doc's.](https://docs.docker.com/get-docker/)  
-[Similar Instructions on DockerHub.](https://hub.docker.com/search?q=&type=edition&offering=community)  
+[Installation page on DockerDocs.](https://docs.docker.com/get-docker/)  
+[Similar instructions on DockerHub.](https://hub.docker.com/search?q=&type=edition&offering=community)  
 
+### Generatng an xv6 docker process
 
+My professor created an xv6 container image called shqwang/xv6 and stored it on his DockerHub repository.  
+You can find it [Here](https://hub.docker.com/r/shqwang/xv6/tags?page=1&ordering=last_updated) and the sequence
+of terminal commands I've placed below will add a local container process called xv6cp to your local machine.
 
 
 
