@@ -59,9 +59,9 @@ of terminal commands I've placed below will add a local container process called
   that is accessible on both your host machine and the virtual machine, and finally it downloads the shqwang/xv6 container image. Replace "yourname" with the local username you use to login into your operating system
   
   (Linux & Apple users)
-  $ docker run --name xv6cp -v /Users/yourName/xv6:/xv6 -it shqwang/xv6 bash
-  (Windows users)
-  $ docker run --name xv6cp -v /c/Users/yourName/xv6:/xv6 -it shqwang/xv6 bash
+    $ docker run --name xv6cp -v /Users/yourName/xv6:/xv6 -it shqwang/xv6 bash
+    (Windows users)
+    $ docker run --name xv6cp -v /c/Users/yourName/xv6:/xv6 -it shqwang/xv6 bash
 
 ## 3. Computer Networks & Distributed Processing (Winter 2021) <a name="heading--3"/>
 
