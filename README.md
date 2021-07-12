@@ -39,7 +39,8 @@ I've organized them in terms of the respective class they were a part of and ord
 ----
 
 ## 2. Operating Systems (Winter 2021) <a name="heading--2"/>
-As the
+For this course I was tasked with running xv6, an educational operating system, in a container using Docker to virtualize the process.
+All of the code written and modified was made in C in visual studio and ran/tested in a directory that both my host machine and xv6cp container could access.
 
 
 ### Getting Docker Running
