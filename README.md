@@ -49,13 +49,20 @@ Follow the instructions from Docker's main website in order to properly install 
 [Installation page on DockerDocs.](https://docs.docker.com/get-docker/)  
 [Similar instructions on DockerHub.](https://hub.docker.com/search?q=&type=edition&offering=community)  
 
-### Generatng an xv6 docker process
+### Generating an xv6 docker process
 
 My professor created an xv6 container image called shqwang/xv6 and stored it on his DockerHub repository.  
-You can find it [Here](https://hub.docker.com/r/shqwang/xv6/tags?page=1&ordering=last_updated) and the sequence
+You can find it [here](https://hub.docker.com/r/shqwang/xv6/tags?page=1&ordering=last_updated) and the sequence
 of terminal commands I've placed below will add a local container process called xv6cp to your local machine.
 
-
+  1.  This first command names the container process as xv6cp, mounts a local directory called under your PC's user name called xv6
+  that is accessible on both your host machine and the virtual machine, and finally it downloads the shqwang/xv6 container image.
+  Replace "yourname" with the local username you use to login into your operating system  
+  (Linux & Apple users)
+  $ docker run --name xv6cp -v /Users/yourName/xv6:/xv6 -it shqwang/xv6 bash  
+    
+  (Windows users)
+  $ docker run --name xv6cp -v /c/Users/yourName/xv6:/xv6 -it shqwang/xv6 bash
 
 ## 3. Computer Networks & Distributed Processing (Winter 2021) <a name="heading--3"/>
 
