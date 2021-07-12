@@ -45,8 +45,8 @@ All of the code written and modified was made in C in visual studio and ran/test
 
 ### Getting Docker Running
 
-Below are more resouces to get Docker running on your local device.
-[CodeTime][https://github.com/zDoctrov/classroom-assignments]
+Follow the instructions from Docker's main website in order to properly install their software on your preferred operating system.
+[Docker's Installation Page](https://docs.docker.com/get-docker/)
 
 
 
