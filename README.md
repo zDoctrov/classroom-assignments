@@ -58,7 +58,7 @@ of terminal commands I've placed below will add a local container process called
   1.  The first terminal command does three things at once:<br />
   -First it names the container process as xv6cp<br />
   -Then it mounts a local directory called "xv6" under your PC's user name. This makes the directory accessible on both your host machine and the virtual machine<br />
-  -Finally, it downloads the shqwang/xv6 container image. Replace "yourname" with the local username you use to login into your operating system<br />
+  -Finally, it downloads the shqwang/xv6 container image. Replace "yourname" with the local username you use to login into your operating system<br /><br />
   (Linux & Apple users)<br />
   $ docker run --name xv6cp -v /Users/yourName/xv6:/xv6 -it shqwang/xv6 bash
   <br /><br />
