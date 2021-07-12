@@ -45,8 +45,9 @@ All of the code written and modified was made in C in visual studio and ran/test
 
 ### Getting Docker Running
 
-Follow the instructions from Docker's main website in order to properly install their software on your preferred operating system.
-[Docker's Installation Page](https://docs.docker.com/get-docker/)
+Follow the instructions from Docker's main website in order to properly install their software on your preferred operating system:
+[Installation Page on Docker Doc's.](https://docs.docker.com/get-docker/)
+[Similar Instructions on DockerHub.](https://hub.docker.com/search?q=&type=edition&offering=community)
 
 
 
