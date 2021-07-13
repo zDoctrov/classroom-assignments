@@ -8,9 +8,7 @@
 
 **[4. Java Programming (Fall 2020)](#heading--4)**
 
-**[5. Software Engineering I (Fall 2020)](#heading--5)**
-
-**[6. Data Structures & Algorithm Analysis (Winter 2020)](#heading--6)**
+**[6. Data Structures & Algorithm Analysis (Winter 2020)](#heading--5)**
 
 <!-- Formatting of Table of Contents
     # Table of Contents
@@ -106,17 +104,8 @@ As the name implies, all project in this course were made in Java. Along with ba
 
 The first project is a rock-paper-scissors spin-off game, the second is a postfix calculator, and the third project allows multiple users to interact with each other through a chatting software in real time.
 
-## 5. Software Engineering I (Fall 2020) <a name="heading--5"/>
-
-## 6. Data Structures & Algorithm Analysis (Winter 2020) <a name="heading--6"/>
-
-
-
-
-
-
-
-
+## 5. Data Structures & Algorithm Analysis (Winter 2020) <a name="heading--5"/>
+Basic C++ programs that demonstrate common data sorting algorithms. This includes projects that implement binary search trees, splay trees, and merge sort algorithms
 
 <!-- Markdown Notes -->
 ## Header2
