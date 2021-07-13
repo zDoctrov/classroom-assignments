@@ -70,7 +70,13 @@ of terminal commands I've placed below will add a local container process called
   <br /><br />
   First, copy the original source code copy of xv6 from within "**xv6-public**" into the previously created mounted folder "**xv6**".
   This gives you a way to back up your files in the event that you misplace or delete something important in the **xv6** folder<br />
-  __root@4f8a09f17d24:/# cp /xv6-public/* /xv6/__ 
+  __root@4f8a09f17d24:/# cp /xv6-public/* /xv6/__
+
+  <br /><br /> 
+  The following three commands allow you to access, build, and run the **/xv6** directory<br />
+  __root@4f8a09f17d24:/# cd /xv6__<br />
+  __root@4f8a09f17d24:/# make__<br />
+  __root@4f8a09f17d24:/# make qemu-nox__<br />
 
 
 ## 3. Computer Networks & Distributed Processing (Winter 2021) <a name="heading--3"/>
