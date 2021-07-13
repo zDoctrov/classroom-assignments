@@ -87,13 +87,13 @@ of terminal commands I've placed below will add a local container process called
 ### Projects
 For all three project, add the files from the operatingSystems repository into your xv6 folder in order to see the changes made to the original xv6 source code. This also includes adding new code that wasn't originally in xv6, such as spin.c and tc.c. To test it, run the command "__$ spin 10000__" to run it in the xv6 shell.
 
-#### Project 1: Running a user program in xv6
+#### Project 1: Running a basic user program in xv6
 __Files:__ Makefile
 
 #### Project 2: Modifying xv6's scheduling policy
 __Files:__ Makefile, proc.h, proc.c
 
-#### Project 2: Modifying xv6's scheduling policy
+#### Project 2: A traffic control user program
 __Files:__ Makefile, proc.h, proc.c, tc.c
 
 ## 3. Computer Networks & Distributed Processing (Winter 2021) <a name="heading--3"/>
