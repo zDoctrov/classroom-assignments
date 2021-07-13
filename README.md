@@ -8,7 +8,7 @@
 
 **[4. Java Programming (Fall 2020)](#heading--4)**
 
-**[6. Data Structures & Algorithm Analysis (Winter 2020)](#heading--5)**
+**[5. Data Structures & Algorithm Analysis (Winter 2020)](#heading--5)**
 
 <!-- Formatting of Table of Contents
     # Table of Contents
