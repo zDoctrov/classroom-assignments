@@ -103,7 +103,7 @@ All of the projects in this course were written in Java and are focused solely o
 
 
 ## 4. Java Programming (Fall 2020) <a name="heading--4"/>
-As the name implies, all project in this course were made in Java. Along with backend work, this software uses the GUI capabilities of Javafx in order to create interactive experiences between the user and the program.
+As the name implies, all project in this course were made in Java. Along with backend work, these softwares uses the GUI capabilities of Javafx in order to create interactive experiences between the user and the program.
 
 The first project is a rock-paper-scissors spin-off game, the second is a postfix calculator, and the third project allows multiple users to interact with each other through a chatting software in real time.
 
