@@ -68,7 +68,8 @@ of terminal commands I've placed below will add a local container process called
 
   2. After all the files have fully downloaded, the '$' symbol should now have change into something along the lines of "root@4f8a09f17d24:/# ", which signifies you are in the container process. Since the container process is complete, you can now start building the xv6 operating system within it with the following commmands.
   <br /><br />
-  First, store<br />
+  First, copy the original source code copy of xv6 from within "**xv6-public**" into the previously created mounted folder "**xv6**".
+  This gives you a way to back up your files in the event that you misplace or delete something important in the **xv6** folder<br />
   **root@4f8a09f17d24:/# cp /xv6-public/* /xv6/** 
 
 
