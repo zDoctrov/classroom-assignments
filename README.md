@@ -103,4 +103,4 @@ As the name implies, all project in this course were made in Java. Along with ba
 The first project is a rock-paper-scissors spin-off game, the second is a postfix calculator, and the third project allows multiple users to interact with each other through a chatting software in real time.
 
 ## 5. Data Structures & Algorithm Analysis (Winter 2020) <a name="heading--4"/>
-Basic C++ programs that demonstrate common data sorting algorithms. This includes projects that implement binary search trees, splay trees, and merge sort algorithms
+Basic C++ programs that demonstrate common data sorting algorithms. This includes projects that implement binary search trees, splay trees, and merge sort algorithms.
