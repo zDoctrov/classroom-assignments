@@ -73,7 +73,7 @@ of terminal commands I've placed below will add a local container process called
   __root@4f8a09f17d24:/# cp /xv6-public/* /xv6/__
 
   <br /><br /> 
-  The following three commands allow you to access, build, and run the **/xv6** directory<br />
+  3. The following three commands allow you to access, build, and run the **/xv6** directory<br />
   __root@4f8a09f17d24:/# cd /xv6__<br />
   __root@4f8a09f17d24:/# make__<br />
   __root@4f8a09f17d24:/# make qemu-nox__<br />
