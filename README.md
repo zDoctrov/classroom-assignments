@@ -99,8 +99,7 @@ __Files:__ Makefile, spin.c, proc.h, proc.c, tc.c
 ## 3. Computer Networks & Distributed Processing (Winter 2021) <a name="heading--3"/>
 All of the projects in this course were written in Java and are focused solely on socket clients and server programming. As such, these files can be run in any Java friendly IDEs, such as Intellij or Eclipse. 
 
-<br/>Both projects are online address books, with the main differentiation between the two versions is the addition of more features and interactivity between clients in the second version.
-
+Both projects are online address books, with the main differentiation between the two versions is the addition of more features and interactivity between clients in the second version.
 
 ## 4. Java Programming (Fall 2020) <a name="heading--4"/>
 As the name implies, all project in this course were made in Java. Along with backend work, these softwares uses the GUI capabilities of Javafx in order to create interactive experiences between the user and the program.
