@@ -1,14 +1,12 @@
 # Table of Contents
 
-**[1. Overview of *classroom-assignments*](#heading--1)**
+**[1. Operating Systems (Winter 2021)](#heading--1)**
 
-**[2. Operating Systems (Winter 2021)](#heading--2)**
+**[2. Computer Networks & Distributed Processing (Winter 2021)](#heading--2)**
 
-**[3. Computer Networks & Distributed Processing (Winter 2021)](#heading--3)**
+**[3. Java Programming (Fall 2020)](#heading--3)**
 
-**[4. Java Programming (Fall 2020)](#heading--4)**
-
-**[5. Data Structures & Algorithm Analysis (Winter 2020)](#heading--5)**
+**[4. Data Structures & Algorithm Analysis (Winter 2020)](#heading--4)**
 
 <!-- Formatting of Table of Contents
     # Table of Contents
@@ -30,13 +28,13 @@
 
 ----
 
-## 1. Overview of *classroom-assignments* <a name="heading--1"/>
+## Overview of *classroom-assignments*
 A single repository to rule them all. Placed here are all of the programming assignments I've done previously during my undergraduate years at UoM Dearborn.
 I've organized them in terms of the respective class they were a part of and ordered these classes in terms of their recency. 
 
 ----
 
-## 2. Operating Systems (Winter 2021) <a name="heading--2"/>
+## 1. Operating Systems (Winter 2021) <a name="heading--1"/>
 For this course I was tasked with running xv6, an educational operating system, in a container using Docker to virtualize the process.
 All of the code written and modified was made in C in visual studio and ran/tested in a directory that both my host machine and xv6cp container could access.
 
@@ -94,15 +92,15 @@ __Files:__ Makefile, spin.c, proc.h, proc.c
 #### Project 2: A traffic control user program
 __Files:__ Makefile, spin.c, proc.h, proc.c, tc.c
 
-## 3. Computer Networks & Distributed Processing (Winter 2021) <a name="heading--3"/>
+## 3. Computer Networks & Distributed Processing (Winter 2021) <a name="heading--2"/>
 All of the projects in this course were written in Java and are focused solely on socket clients and server programming. As such, these files can be run in any Java friendly IDEs, such as Intellij or Eclipse. 
 
 Both projects are online address books, with the main differentiation between the two versions is the addition of more features and interactivity between clients in the second version.
 
-## 4. Java Programming (Fall 2020) <a name="heading--4"/>
+## 4. Java Programming (Fall 2020) <a name="heading--3"/>
 As the name implies, all project in this course were made in Java. Along with backend work, these softwares uses the GUI capabilities of Javafx in order to create interactive experiences between the user and the program.
 
 The first project is a rock-paper-scissors spin-off game, the second is a postfix calculator, and the third project allows multiple users to interact with each other through a chatting software in real time.
 
-## 5. Data Structures & Algorithm Analysis (Winter 2020) <a name="heading--5"/>
+## 5. Data Structures & Algorithm Analysis (Winter 2020) <a name="heading--4"/>
 Basic C++ programs that demonstrate common data sorting algorithms. This includes projects that implement binary search trees, splay trees, and merge sort algorithms
