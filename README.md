@@ -72,7 +72,7 @@ of terminal commands I've placed below will add a local container process called
   3. The following three commands allow you to access, build, and run the **/xv6** directory<br />
   *  __root@4f8a09f17d24:/# cd /xv6__<br />
   *  __root@4f8a09f17d24:/# make__<br />
-  *  __root@4f8a09f17d24:/# make qemu-nox__<br />
+  *  __root@4f8a09f17d24:/# make qemu-nox__
 
   Thus, xv6 is ready and able to take on user made programs.<br />
   To shut down the xv6 container, **press ctrl-a** at the same time and then **press x**.<br /><br />
