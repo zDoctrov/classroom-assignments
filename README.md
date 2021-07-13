@@ -66,10 +66,9 @@ of terminal commands I've placed below will add a local container process called
   **$ docker run --name xv6cp -v /c/Users/yourName/xv6:/xv6 -it shqwang/xv6 bash**
   <br /><br />
 
-  2. The '$' symbol should now have change into something along the lines of "root@4f8a09f17d24:/# ", which signifies you are in the container process.<br />
-  Since the container process is complete, you can now start building the xv6 operating system within it with the following commmands.
+  2. The '$' symbol should now have change into something along the lines of "root@4f8a09f17d24:/# ", which signifies you are in the container process. Since the container process is complete, you can now start building the xv6 operating system within it with the following commmands.
   <br /><br />
-  First,
+  First, <br />
   **root@4f8a09f17d24:/# cp /xv6-public/* /xv6/** 
 
 
