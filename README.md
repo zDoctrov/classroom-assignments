@@ -106,19 +106,3 @@ The first project is a rock-paper-scissors spin-off game, the second is a postfi
 
 ## 5. Data Structures & Algorithm Analysis (Winter 2020) <a name="heading--5"/>
 Basic C++ programs that demonstrate common data sorting algorithms. This includes projects that implement binary search trees, splay trees, and merge sort algorithms
-
-<!-- Markdown Notes -->
-## Header2
-
-This is a sample readme file for our GitHub Example repo. We're learning Markdown.
-
-Bullet Point List
-* This is meant to be an example
-* Markdown is really fast
-* Pretty cool, right?
-
-Numerical List
-1. Item One
-2. Item Two
-3. Item Three
-
