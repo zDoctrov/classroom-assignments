@@ -97,9 +97,7 @@ __Files:__ Makefile, spin.c, proc.h, proc.c
 __Files:__ Makefile, spin.c, proc.h, proc.c, tc.c
 
 ## 3. Computer Networks & Distributed Processing (Winter 2021) <a name="heading--3"/>
-All of the projects in this course were written in Java and are focused solely on socket clients and server programming. As such, these files can be run any Java friendly IDEs, such as Intellij or Eclipse.
-### Projects
-
+All of the projects in this course were written in Java and are focused solely on socket clients and server programming. As such, these files can be run in any Java friendly IDEs, such as Intellij or Eclipse.
 
 ## 4. Java Programming (Fall 2020) <a name="heading--4"/>
 
