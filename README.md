@@ -78,8 +78,8 @@ of terminal commands I've placed below will add a local container process called
   __root@4f8a09f17d24:/# make__<br />
   __root@4f8a09f17d24:/# make qemu-nox__<br />
 
-  <br />Thus, xv6 is ready and able to take on user made programs.<br />
-  To shut down the xv6 container, **press ctrl-a** at the same time and then **press x**.<br />
+  Thus, xv6 is ready and able to take on user made programs.<br />
+  To shut down the xv6 container, **press ctrl-a** at the same time and then **press x**.<br /><br />
   To get back into the xv6 container, type the commands:<br />
   __$ docker restart xv6cp__<br />
   __$ docker attach xv6cp__<br />
