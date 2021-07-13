@@ -84,6 +84,9 @@ of terminal commands I've placed below will add a local container process called
   __$ docker restart xv6cp__<br />
   __$ docker attach xv6cp__<br />
 
+### Project 1: Running a user program in xv6
+1. Insert the file __"spin.c"__ into the xv6 folder on your host computer/container directory
+2. Go into the __"Makefile"__ and add the program name under "User Programs" (UPROGS=\), following the formatting of the other programs there (_spin\)
 
 ## 3. Computer Networks & Distributed Processing (Winter 2021) <a name="heading--3"/>
 
