@@ -29,7 +29,7 @@
 ----
 
 ## Overview of *classroom-assignments*
-A single repository to rule them all. Placed here are all of the programming assignments I've done previously during my undergraduate years at UoM Dearborn.
+A single repository to rule them all. Placed here are all of the major programming assignments I've done previously during my undergraduate years at UoM Dearborn.
 I've organized them in terms of the respective class they were a part of and ordered these classes in terms of their recency. 
 
 ----
